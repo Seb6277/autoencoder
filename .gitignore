@@ -1,2 +1,5 @@
 data/
 .ipynb_checkpoints
+animation.gif
+mnist/
+result/
